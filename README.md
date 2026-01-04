@@ -1,149 +1,181 @@
-# 👋 Hello, I'm Rishi Singh (@NoviceNerd1)
+<!-- Header Banner -->
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20I'm%20Rishi%20Singh&fontSize=60&fontAlignY=35&desc=Backend%20%7C%20Full-Stack%20%7C%20Open%20Source&descAlignY=55&descAlign=55&animation=fadeIn)
 
-**SDE-1 | Backend & Full-Stack Engineer | Open Source Enthusiast**  
-🎓 B.Tech CSE '24 | Building scalable systems with Node.js • TypeScript • Next.js
+</div>
 
----
+<!-- Introduction -->
+<div align="center">
+  
+# 🚀 Passionate Software Engineer | Building Scalable Systems
+  
+**🎯 SDE-1 Ready | MERN Specialist | 2+ Years Experience**  
+**🎓 B.Tech CSE '24 | CGPA: 7.88/10**  
+**🏆 3-star GeeksforGeeks | 1700+ LeetCode Rating**
 
-## 🧭 About Me
-
-I'm a software engineer passionate about building robust backend systems and scalable architectures. With strong fundamentals in computer science and hands-on experience across the stack, I focus on creating clean, maintainable, and efficient solutions. Currently preparing for SDE-1/Backend roles while actively contributing to open source.
-
-**🎯 Current Focus:**
-- 🏗️ Building production-ready backend systems
-- 🔍 Contributing to meaningful open-source projects
-- ⚙️ Strengthening system design & distributed systems knowledge
-- 📚 Preparing for technical interviews & coding challenges
-
----
-
-## 💼 Professional Experience
-
-### **Full Stack Developer (MERN Stack)** | Evo Technology Pvt. Ltd. | *Jan 2024 – Present*
-
-**Key Responsibilities & Achievements:**
-- 🔹 Led end-to-end development of **Nibe Dim platform** using MERN stack (MongoDB, Express.js, React.js, Node.js)
-- 🔹 Built responsive frontend interfaces with React.js and Redux for state management
-- 🔹 Designed scalable backend services using Node.js, Express.js, and integrated GraphQL for optimized data fetching
-- 🔹 Implemented REST APIs and WebSocket integration for real-time system interactions
-- 🔹 Developed secure authentication/authorization workflows using JWT
-- 🔹 Containerized applications with Docker and deployed to AWS with CI/CD pipelines
-- 🔹 Collaborated in Agile SCRUM environment to deliver production-ready features
+[![Email](https://img.shields.io/badge/📧_1563rishisingh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1563rishisingh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishisingh15)
+[![Portfolio](https://img.shields.io/badge/🚀_View_My_Work-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoviceNerd1)
+  
+</div>
 
 ---
 
-## 🛠️ Technical Stack
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-
-### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-FF6F00?logo=jenkins&logoColor=white)
-
-### **Tools & Methodologies**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-009688?logo=trello&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrutinizerci&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### **🔧 Production Projects (Work Experience)**
-| Project | Description | Tech Stack | Key Features |
-|---------|-------------|------------|--------------|
-| **[Nibe Dim Platform](https://github.com/NoviceNerd1/)** | Environmental monitoring system | MERN + GraphQL | Real-time dashboards, WebSocket alerts, JWT auth, AWS deployment |
-| **[NexWave Food Delivery](https://github.com/NoviceNerd1/)** | Modern food delivery platform | MERN Stack | Restaurant discovery, cart management, Redux state, Docker containers |
-
-### **🔧 Backend & Full-Stack (Personal)**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Amazon Clone App](https://github.com/NoviceNerd1/amazon-clone-app)** | Full-stack e-commerce platform | Node.js, Express, React, MongoDB |
-| **[CRUD MEAN DevOps](https://github.com/NoviceNerd1/crud-dd-task-mean-devops)** | Production-oriented CRUD app | TypeScript, Angular, Node.js, Docker |
-| **[Zaika-Ghar](https://github.com/NoviceNerd1/Zaika-Ghar)** | Food ordering system | TypeScript, Node.js, React |
-
-### **🤖 Machine Learning & AI**
-| Project | Description | Techniques |
-|---------|-------------|------------|
-| **[Credit Card Fraud Detection](https://github.com/NoviceNerd1/Credit_Card_Fraud_Classifier)** | Fraud detection system | Supervised Learning, Feature Engineering |
-| **[Sales & Stock Prediction](https://github.com/NoviceNerd1/Future-Sales-Prediction)** | Time-series forecasting | LSTM, CNN, Hybrid Models |
-
----
-
-## 🏆 Achievements
-
-- **🏅 3-star Coder** on GeeksforGeeks
-- **📊 1700+ LeetCode Rating** | Specialist rank on Code360
-- **🎓 B.Tech CSE** - 7.88 CGPA (73.6%) | Babu Banarasi Das University
-
----
-
-## 🌱 Open Source Journey
-
-I'm actively transitioning from **Working → contributing → leading** in open source:
-
-**🔍 Currently Exploring:**
-	- **Full-Stack → DevOps → System Design** - Building a deeper understanding of how real-world systems evolve from application code to scalable, production-grade architectures (APIs, CI/CD, deployment, observability).
-  - **Embedded & Systems-Oriented Development** - Building a deeper understanding of how real-world systems evolve from application code to scalable, production-grade architectures (APIs, CI/CD, deployment, observability).
-	- **High-Frequency Trading (HFT) Software Foundations** - Learning low-latency system design, concurrency models, performance optimization, and C++-centric architectures through open-source systems and technical literature.
-	- **GSoC / Open-Source Software (OSS)** - Actively transitioning from structured learning to real contributions by understanding large codebases, picking beginner-friendly issues, and submitting well-scoped pull requests.
-
-
-**🎯 GSoC Goals:**
-1. Make meaningful contributions to medium/large codebases
-2. Submit well-researched proposals
-3. Build sustainable relationships with OSS communities
-
----
-
-## 📊 GitHub Stats
+## 📌 Quick Glance
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NoviceNerd1&theme=radical&hide_border=true)
+| Category | Status | Focus Area |
+|:---------|:-------|:-----------|
+| **🏢 Current Role** | **Full Stack Developer @ Evo Technology** | MERN Stack, AWS, Docker, CI/CD |
+| **🎯 Target Role** | **SDE-1 / Backend Engineer** | Ready for immediate contribution |
+| **📈 Experience** | **2+ Years** | Production-grade applications |
+| **🌟 Open Source** | **Active Contributor** | GSoC Aspirant |
+| **⚡ Availability** | **Immediately Available** | Open to opportunities |
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 💡 Why Hire Me?
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:1563rishisingh@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NoviceNerd1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishisingh15)
+<div align="center">
+  
+### **I don't just code—I deliver production-ready solutions that scale.**
+  
+</div>
 
-
+| 🔥 **My Superpowers** | 💼 **What I Bring to Your Team** |
+|:----------------------|:--------------------------------|
+| **🚀 End-to-End Ownership** | Led complete development of enterprise platforms serving real users |
+| **📈 Scalability Focus** | Built systems that handle real-time data with WebSocket & GraphQL |
+| **🔧 DevOps Mindset** | Dockerized apps, AWS deployment, CI/CD pipelines implemented |
+| **🎯 Problem Solver** | 3-star coder on GeeksforGeeks, 1700+ LeetCode rating |
+| **🤝 Team Player** | Agile/Scrum experience with daily stand-ups and code reviews |
 
 ---
 
-> **"Focus on fundamentals. Build for scale. Learn through open source."**
+## 💼 Professional Impact @ Evo Technology
+
+### **📊 Metrics That Matter**
+
+<div align="center">
+
+| Impact Area | Achievement | Technologies Used |
+|:------------|:------------|:-----------------|
+| **Platform Leadership** | Led **Nibe Dim** – environmental monitoring system | MERN, GraphQL, WebSocket |
+| **System Architecture** | Scalable backend handling **real-time data** | Node.js, Express, MongoDB |
+| **Deployment Excellence** | **Docker + AWS** with CI/CD pipelines | Docker, AWS, GitHub Actions |
+| **Security Implementation** | **JWT authentication** with role-based access | JWT, OAuth principles |
+| **Team Collaboration** | **Agile/Scrum** methodology with sprint deliveries | Git, Code Review, Stand-ups |
+
+</div>
+
+---
+
+## ⚡ Technical Arsenal
+
+<div align="center">
+
+### **🚀 Full Stack Mastery**
+
+| Frontend | Backend | Databases | DevOps |
+|:---------|:--------|:----------|:-------|
+| ![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black&style=for-the-badge) | ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?logo=node.js&logoColor=white&style=for-the-badge) | ![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?logo=mongodb&logoColor=white&style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-Proficient-2496ED?logo=docker&logoColor=white&style=for-the-badge) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?logo=typescript&logoColor=white&style=for-the-badge) | ![Express](https://img.shields.io/badge/Express.js-Proficient-000000?logo=express&logoColor=white&style=for-the-badge) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?logo=postgresql&logoColor=white&style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge) |
+| ![Redux](https://img.shields.io/badge/Redux-Proficient-764ABC?logo=redux&logoColor=white&style=for-the-badge) | ![GraphQL](https://img.shields.io/badge/GraphQL-Intermediate-E10098?logo=graphql&logoColor=white&style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white&style=for-the-badge) | ![CI/CD](https://img.shields.io/badge/CI/CD-Implemented-FF6F00?logo=jenkins&logoColor=white&style=for-the-badge) |
+
+</div>
+
+---
+
+## 🏆 Showcase Projects
+
+<div align="center">
+
+| 🔥 **Production Projects** | 📈 **Impact** | 🛠️ **Tech Stack** |
+|:---------------------------|:--------------|:------------------|
+| **🏢 Nibe Dim Platform** | Environmental monitoring with real-time dashboards | MERN + GraphQL + WebSocket |
+| **🍔 NexWave Food Delivery** | Full-stack delivery platform with cart & order management | MERN + Redux + Docker |
+| **🛒 Amazon Clone** | E-commerce platform with complete product flow | React + Node.js + MongoDB |
+| **📊 Sales Predictor** | ML models for time-series forecasting | Python + LSTM + CNN |
+| **💳 Fraud Detection** | Credit card fraud classifier | ML + Feature Engineering |
+
+**[🔗 Explore All Projects →](https://github.com/NoviceNerd1?tab=repositories)**
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<!-- GitHub Stats Row -->
+<a href="https://github.com/NoviceNerd1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ff6b6b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=fff&text_color=fff" />
+</a>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NoviceNerd1&theme=radical&hide_border=true&background=0d0d0d&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ff6b6b" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NoviceNerd1&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+</div>
+
+---
+
+## 🎯 What's Next?
+
+<div align="center">
+  
+### **I'm actively leveling up in:**
+
+| 🚀 **Immediate Goals** | 🌟 **Long-term Vision** |
+|:----------------------|:------------------------|
+| **🔍 Contributing to large OSS projects** | **🏆 Google Summer of Code 2025** |
+| **⚡ System Design mastery** | **📈 Building at FAANG scale** |
+| **🧠 Advanced algorithms practice** | **👨‍💻 Tech leadership roles** |
+| **☁️ AWS certification** | **🏢 Startup/Scale-up impact** |
+
+</div>
+
+---
+
+## 📞 Let's Build Something Amazing!
+
+<div align="center">
+
+### **I'm actively looking for SDE-1/Backend roles where I can:**
+
+🚀 **Build** scalable backend systems  
+🎯 **Solve** complex engineering challenges  
+🤝 **Collaborate** with talented teams  
+📈 **Grow** into a tech leader
+
+</div>
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/📧_Schedule_a_Chat-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2)](mailto:1563rishisingh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2)](https://linkedin.com/in/rishisingh15)
+[![GitHub](https://img.shields.io/badge/GitHub-View_My_Code-181717?style=for-the-badge&logo=github&logoColor=white&scale=1.2)](https://github.com/NoviceNerd1)
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐ **"From clean code to scalable architecture – I bridge the gap between ideas and impact."** ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&reversal=true)
+
+</div>
