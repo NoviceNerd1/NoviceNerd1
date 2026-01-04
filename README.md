@@ -114,15 +114,10 @@
 ### 🚀 My Coding Journey
 
 <!-- GitHub Stats -->
-<img height="180em"
-src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&v=1" />
-
-
-<!-- Top Languages -->
-<img height="180em"
-src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&v=1" />
-
-
+<a href="https://github.com/NoviceNerd1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ff6b6b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=fff&text_color=fff" />
+</a>
 <!-- Streak Stats -->
 <br/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NoviceNerd1&theme=radical&hide_border=true&background=0d0d0d&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
