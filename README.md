@@ -113,10 +113,9 @@
 <div align="center">
   
 <!-- GitHub Stats Row -->
-<a href="https://github.com/NoviceNerd1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ff6b6b" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=fff&text_color=fff" />
-</a>
+[![Rishi's GitHub Stats](https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/NoviceNerd1)
+
+[![Top Languages](https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true)](https://github.com/NoviceNerd1)
 
 <!-- Streak Stats -->
 <p align="center">
