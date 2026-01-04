@@ -114,13 +114,13 @@
 ### 🚀 My Coding Journey
 
 <!-- GitHub Stats -->
-
-
 <img height="180em"
-src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api?username=NoviceNerd1&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
+src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&v=1" />
 
+
+<!-- Top Languages -->
 <img height="180em"
-src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true" />
+src="https://github-readme-stats-git-master-rishis-projects-8f331978.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&v=1" />
 
 
 <!-- Streak Stats -->
