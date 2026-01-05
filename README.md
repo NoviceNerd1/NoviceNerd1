@@ -29,7 +29,7 @@
 | Category | Status | Focus Area |
 |:---------|:-------|:-----------|
 | **🏢 Current Role** | **Full Stack Developer @ Evo Technology** | MERN Stack, AWS, Docker, CI/CD |
-| **🎯 Target Role** | **SDE-1 / Backend Engineer** | Ready for immediate contribution |
+| **🎯 Target Role** | **SDE-1 / Full Stack / Backend Engineer** | Ready for immediate contribution |
 | **📈 Experience** | **2+ Years** | Production-grade applications |
 | **🌟 Open Source** | **Active Contributor** | GSoC Aspirant |
 | **⚡ Availability** | **Immediately Available** | Open to opportunities |
@@ -113,18 +113,11 @@
 
 ### 🚀 My Coding Journey
 
-<!-- GitHub Stats -->
-<a href="https://github.com/NoviceNerd1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=ff6b6b" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=fff&text_color=fff" />
-</a>
-<!-- Streak Stats -->
-<br/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NoviceNerd1&theme=radical&hide_border=true&background=0d0d0d&stroke=ff6b6b&ring=4ecdc4&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoviceNerd1&show_icons=true&theme=radical&hide_border=true)
 
-<!-- Activity Graph -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoviceNerd1&theme=radical&bg_color=0d0d0d&color=ff6b6b&line=4ecdc4&point=ff6b6b&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoviceNerd1&layout=compact&theme=radical&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=NoviceNerd1&theme=radical&hide_border=true)
 
 </div>
 
